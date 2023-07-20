@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=👨🏼‍🎤Hi%20Everyone👨🏼‍🎤%20&fontSize=90)
 
-![alt text](<a href="https://www.instagram.com/thepiyushmalhotra/">)
+![alt text]((https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png))
 <!--
 **SmagicJones/SmagicJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
