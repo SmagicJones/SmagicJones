@@ -1,4 +1,7 @@
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=👨🏼‍🎤Hi%20Everyone👨🏼‍🎤%20&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <div align="center">  
   <a href="https://www.linkedin.com/in/robert-holland-codes/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
