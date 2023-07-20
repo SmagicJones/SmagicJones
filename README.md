@@ -7,12 +7,11 @@
 </div>
 
 <p align="center">
-  <img src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o"/>
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </p>
 
-<img src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 <!--
