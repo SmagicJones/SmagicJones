@@ -12,6 +12,8 @@
 
 <img src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 <!--
 **SmagicJones/SmagicJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
