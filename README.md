@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=👨🏼‍🎤Hi%20Everyone👨🏼‍🎤%20&fontSize=90)
-<div float="center">  
+<div float="left">  
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <a href="https://linkedin.com"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </div>
