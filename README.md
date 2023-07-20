@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=👨🏼‍🎤Hi%20Everyone👨🏼‍🎤%20&fontSize=90)
 <div align="center">  
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=👨🏼‍🎤Hi%20Everyone👨🏼‍🎤%20&fontSize=90)
   <a href="https://www.linkedin.com/in/robert-holland-codes/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 <!--
