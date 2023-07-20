@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/robert-holland-codes/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
-<p align="center">
+
   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-</p>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
