@@ -5,6 +5,12 @@
 <div align="center">  
   <a href="https://www.linkedin.com/in/robert-holland-codes/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
+
+<p align="center">
+  <img src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o"/>
+</p>
+
+
 <!--
 **SmagicJones/SmagicJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
